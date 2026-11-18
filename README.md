@@ -1,25 +1,15 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Ajay Sahani
+# 👋 Hi, I'm Ajay Sahani
 
-### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Full Stack Developer
+### 🚀 DevOps Engineer | AI/ML Enthusiast | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineering;Docker+%7C+AWS+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Automation;Full+Stack+Developer;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Engineering;Docker+%7C+AWS+%7C+Kubernetes;AI+%7C+Machine+Learning;Full+Stack+Development;Data+Analytics+%26+Python" />
 
-<br/>
-
-<a href="https://github.com/reachoutsahani">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/ajay-sahani01">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://ajay-devops-portfolio-frontend-565bvap9s.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=vercel"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=reachoutsahani&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/reachoutsahani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-sahani01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel)](https://ajay-devops-portfolio-frontend-565bvap9s.vercel.app)
 
 </div>
 
@@ -27,131 +17,63 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ajay Sahani**, a Computer Science & Engineering graduate passionate about building, deploying and managing scalable applications.
+- 🚀 Primary Focus: **DevOps & Cloud Engineering**
+- 🐳 Docker | Kubernetes | AWS | Linux | CI/CD
+- 🤖 AI | Machine Learning | Generative AI
+- 💻 Full Stack: React.js | Node.js | MongoDB
+- 📊 Data Analytics: Python | SQL | Power BI
+- ⚡ Passionate about Automation, AI and Scalable Applications.
 
-- 🚀 Focus: DevOps Engineering & Cloud Computing
-- 🐳 Learning: Docker, Kubernetes & CI/CD
-- ☁️ Cloud: AWS & Linux
-- ⚙️ Automation: GitHub Actions & Jenkins
-- 💻 Development: MERN Stack
-- 📊 Exploring: Python & Data Analytics
-- 🎯 Goal: Become a skilled DevOps Engineer
+## 🛠️ Tech Stack
 
----
+**☁️ DevOps & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,jenkins,githubactions,git,terraform"/>
+</p>
 
-## ⚡ DevOps & Cloud Skills
+**🤖 AI & Machine Learning**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
 
-<div align="center">
+**💻 Full Stack Development**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,aws,jenkins,githubactions,git,github,bash,terraform,nginx&perline=6" />
-
-</div>
-
-### Technologies I'm Learning
-
-| Domain | Technologies |
-|---|---|
-| Cloud | AWS EC2, S3, IAM, VPC |
-| Containers | Docker, Docker Compose |
-| Orchestration | Kubernetes |
-| CI/CD | Jenkins, GitHub Actions |
-| IaC | Terraform |
-| OS | Linux, Ubuntu |
-| Scripting | Bash, Python |
-| Monitoring | Prometheus, Grafana |
-| Networking | DNS, TCP/IP, SSH, HTTP/HTTPS |
-
----
-
-## 💻 Full Stack Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind&perline=6" />
-
-</div>
-
-## 📊 Data Analytics & AI/ML
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql&perline=6" />
-
-</div>
-
-Python | Pandas | NumPy | Matplotlib | SQL | Excel | Power BI | Machine Learning
-
----
+**📊 Data Analytics**
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+</p>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+| Project | Domain |
+|---|---|
+| ChatNova AI | 🤖 AI + Full Stack |
+| Flask App ECS | 🐳 DevOps + Docker |
+| Developer Portfolio | 💻 Web Development |
 
-<a href="https://github.com/reachoutsahani/ChatNova-Ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=reachoutsahani&repo=ChatNova-Ai&theme=tokyonight&hide_border=true" />
-</a>
+- [ChatNova AI](https://github.com/reachoutsahani/ChatNova-Ai)
+- [Flask App ECS](https://github.com/reachoutsahani/flask-app-ecs)
+- [DevOps Portfolio](https://github.com/reachoutsahani/ajay-devops-portfolio)
 
-<a href="https://github.com/reachoutsahani/flask-app-ecs">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=reachoutsahani&repo=flask-app-ecs&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/reachoutsahani/ajay-devops-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=reachoutsahani&repo=ajay-devops-portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 🔹 Project Highlights
-
-**1. ChatNova AI – Full Stack**
-- React, Node.js, Express & MongoDB
-- AI-powered chat application
-
-**2. Flask App ECS – DevOps**
-- Python Flask application
-- Docker containerization
-- AWS ECS deployment project
-
-**3. DevOps Portfolio**
-- Personal portfolio website
-- Responsive design and project showcase
-
----
-
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reachoutsahani&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=reachoutsahani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reachoutsahani&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reachoutsahani&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reachoutsahani&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ajay-sahani01">
-<img src="https://img.shields.io/badge/LinkedIn-Ajay%20Sahani-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+### ⚡ AUTOMATE • INNOVATE • BUILD • DEPLOY
 
-<a href="https://github.com/reachoutsahani">
-<img src="https://img.shields.io/badge/GitHub-reachoutsahani-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://ajay-devops-portfolio-frontend-565bvap9s.vercel.app">
-<img src="https://img.shields.io/badge/My%20Portfolio-Explore-success?style=for-the-badge&logo=vercel"/>
-</a>
-
-<br/><br/>
-
-### ⚡ AUTOMATE • BUILD • DEPLOY • REPEAT
-
-**Thanks for visiting my profile! ⭐**
+**Always Learning | Always Building 🚀**
 
 </div>
