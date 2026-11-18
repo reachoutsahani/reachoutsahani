@@ -1,55 +1,157 @@
 
-# 👋 Hi, I'm Ajay Sahani
+<div align="center">
+
+# 👋 Hey, I'm Ajay Sahani
 
 ### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Full Stack Developer
 
-- 🐳 Learning Docker, Kubernetes & CI/CD
-- ☁️ Working with AWS, Linux & Cloud Computing
-- ⚙️ Exploring Jenkins, GitHub Actions & Terraform
-- 💻 Building Full Stack applications using MERN
-- 📊 Interested in Python & Data Analytics
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineering;Docker+%7C+AWS+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Automation;Full+Stack+Developer;Always+Learning+%26+Building" />
 
-### 🛠️ Tech Stack
+<br/>
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+<a href="https://github.com/reachoutsahani">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/ajay-sahani01">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://ajay-devops-portfolio-frontend-565bvap9s.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=vercel"/>
+</a>
 
-### 🚀 Featured Projects
+<img src="https://komarev.com/ghpvc/?username=reachoutsahani&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
-**1. ChatNova AI – Full Stack Project**
-- React, Node.js, Express, MongoDB
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Ajay Sahani**, a Computer Science & Engineering graduate passionate about building, deploying and managing scalable applications.
+
+- 🚀 Focus: DevOps Engineering & Cloud Computing
+- 🐳 Learning: Docker, Kubernetes & CI/CD
+- ☁️ Cloud: AWS & Linux
+- ⚙️ Automation: GitHub Actions & Jenkins
+- 💻 Development: MERN Stack
+- 📊 Exploring: Python & Data Analytics
+- 🎯 Goal: Become a skilled DevOps Engineer
+
+---
+
+## ⚡ DevOps & Cloud Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,aws,jenkins,githubactions,git,github,bash,terraform,nginx&perline=6" />
+
+</div>
+
+### Technologies I'm Learning
+
+| Domain | Technologies |
+|---|---|
+| Cloud | AWS EC2, S3, IAM, VPC |
+| Containers | Docker, Docker Compose |
+| Orchestration | Kubernetes |
+| CI/CD | Jenkins, GitHub Actions |
+| IaC | Terraform |
+| OS | Linux, Ubuntu |
+| Scripting | Bash, Python |
+| Monitoring | Prometheus, Grafana |
+| Networking | DNS, TCP/IP, SSH, HTTP/HTTPS |
+
+---
+
+## 💻 Full Stack Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind&perline=6" />
+
+</div>
+
+## 📊 Data Analytics & AI/ML
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql&perline=6" />
+
+</div>
+
+Python | Pandas | NumPy | Matplotlib | SQL | Excel | Power BI | Machine Learning
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/reachoutsahani/ChatNova-Ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=reachoutsahani&repo=ChatNova-Ai&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/reachoutsahani/flask-app-ecs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=reachoutsahani&repo=flask-app-ecs&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/reachoutsahani/ajay-devops-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=reachoutsahani&repo=ajay-devops-portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🔹 Project Highlights
+
+**1. ChatNova AI – Full Stack**
+- React, Node.js, Express & MongoDB
 - AI-powered chat application
-- Real-time communication
 
-🔗 https://github.com/reachoutsahani/ChatNova-Ai
-
-**2. Flask App ECS – DevOps Project**
-- Python Flask & Docker
-- Containerization and AWS ECS deployment
-
-🔗 https://github.com/reachoutsahani/flask-app-ecs
+**2. Flask App ECS – DevOps**
+- Python Flask application
+- Docker containerization
+- AWS ECS deployment project
 
 **3. DevOps Portfolio**
 - Personal portfolio website
-
-🔗 https://github.com/reachoutsahani/ajay-devops-portfolio
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reachoutsahani&show_icons=true&theme=tokyonight)
-
-### 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/ajay-sahani01) | [GitHub](https://github.com/reachoutsahani) | [Portfolio](https://ajay-devops-portfolio-frontend-565bvap9s.vercel.app)
+- Responsive design and project showcase
 
 ---
-⭐ Building, Learning & Automating!
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reachoutsahani&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reachoutsahani&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reachoutsahani&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ajay-sahani01">
+<img src="https://img.shields.io/badge/LinkedIn-Ajay%20Sahani-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/reachoutsahani">
+<img src="https://img.shields.io/badge/GitHub-reachoutsahani-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://ajay-devops-portfolio-frontend-565bvap9s.vercel.app">
+<img src="https://img.shields.io/badge/My%20Portfolio-Explore-success?style=for-the-badge&logo=vercel"/>
+</a>
+
+<br/><br/>
+
+### ⚡ AUTOMATE • BUILD • DEPLOY • REPEAT
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
